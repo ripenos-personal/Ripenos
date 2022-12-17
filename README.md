@@ -3,7 +3,7 @@
 # The Ripen OS
 ### The official GitHub account for the Ripen OS
 
-<img src="https://user-images.githubusercontent.com/120778877/208236498-1155f399-be16-489b-b52b-f992984fe73a.png" style="border-radius: 15px">
+![Banner](https://user-images.githubusercontent.com/120778877/208237064-5e427307-7ff3-4194-bbe0-abdc20834cf8.png)
 <hr>
 
 *Managed by @navaneet239*
